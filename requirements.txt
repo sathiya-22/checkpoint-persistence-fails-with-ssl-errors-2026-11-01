@@ -1,0 +1,4 @@
+langgraph==0.0.40
+psycopg2-binary==2.9.9
+# Or psycopg3 if preferred, ensure compatible with LangGraph's current implementation
+# psycopg==3.1.18
